@@ -9,7 +9,7 @@ Issues & Updates
 ----------------
 
 Found a bug? Please create an issue on GitHub:
-    https://github.com/ysoyipek/luci-themes-netgear/issues
+    https://github.com/ysoyipek/luci-theme-netgear/issues
 
 Further tests and PR's are welcome and appreciated.
 
@@ -40,7 +40,7 @@ most suited for your case to get it:
 Edit your feeds.conf.default and add the following to it:
 
     # luci-theme-netgear
-    src-git netgear git://github.com/ysoyipek/luci-themes-netgear.git
+    src-git netgear git://github.com/ysoyipek/luci-theme-netgear.git
 
 Update your build environment and install the package:
 
